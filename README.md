@@ -10,6 +10,9 @@ docker build -t latex .
 docker run --rm -i -v "$PWD":/data latex pdflatex shubham_paul_resume.tex
 ```
 
+### Preview
+
+![Resume Screenshot](/resume_preview.png)
 
 ### License
 
